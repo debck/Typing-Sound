@@ -14,8 +14,3 @@ npm install
 # Run the app
 npm start
 ```
-
-## Resources for Learning Electron
-
-- [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - sample starter apps created by the community

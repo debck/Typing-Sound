@@ -1,0 +1,22 @@
+{
+  "name": "typing-sound",
+  "version": "1.0.0",
+  "description": "Play sound on every key press",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/debck/Typing-Sound",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "debck",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}

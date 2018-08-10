@@ -1,4 +1,4 @@
-## This is a simple electron app build for learning electron.
+## This is a simple electron app which plays a sound for every keyboard key that you press.
 
 ### Thanks to ***@Carol Pelu*** for making this tutorial to get started with concepts [electronjs](https://electronjs.org/)
 
@@ -14,3 +14,4 @@ npm install
 # Run the app
 npm start
 ```
+* Built for learing electron

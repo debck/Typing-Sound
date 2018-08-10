@@ -1,6 +1,6 @@
 ## This is a simple electron app build for learning electron.
 
-## Thanks to **Carol Pelu** for making this tutorial to get started with concepts [electronjs](https://electronjs.org/)
+### Thanks to ***@Carol Pelu*** for making this tutorial to get started with concepts [electronjs](https://electronjs.org/)
 
 ## To Use
 
